@@ -4,3 +4,5 @@ Cấu hình STM32-W5500
 - Chỉnh xung 100MHz
 - RCC: Crystal
 - Debug: Serial Wire
+
+RTOS: 
