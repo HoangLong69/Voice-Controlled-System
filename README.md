@@ -6,3 +6,5 @@ Cấu hình STM32-W5500 (nếu cấu hình từ đầu)
 - Debug: Serial Wire
 
 Hoặc dowload w5500_rtos.rar rồi thêm phần cấu hình module mic INMP441 trong file ioc. Nhớ cấu hình module mic có RTOS
+
+GUI: Chạy file ver1.py
