@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="images/schematic.svg" width="800">
+    <img src="schematic.svg" width="800">
 </div>
 
 <div align="center">
